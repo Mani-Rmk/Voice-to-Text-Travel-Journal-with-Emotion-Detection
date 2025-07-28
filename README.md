@@ -32,8 +32,8 @@ Make sure Python 3.8 or above is installed. Then follow the steps below:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/voice-travel-journal.git
-cd voice-travel-journal
+git clone https://github.com/Mani-Rmk/Voice-to-Text-Travel-Journal-with-Emotion-Detection.git
+cd Voice-to-Text-Travel-Journal-with-Emotion-Detection
 
 # Create a virtual environment (optional)
 python -m venv venv
